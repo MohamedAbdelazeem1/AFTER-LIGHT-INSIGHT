@@ -6,7 +6,6 @@ There are a lot of bad images that we want to extract the from it but the image 
 ## install requirements via pip
 ```markdown
 
- pip install -r requirements.txt
  pip install PyQt5
  pip install cv2
  pip install ocrspace
