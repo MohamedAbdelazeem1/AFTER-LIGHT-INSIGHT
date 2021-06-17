@@ -2,6 +2,18 @@
 ## Our Project
 There are a lot of bad images that we want to extract the from it but the image not clear like: traffic signs in dark roads. The program takes images as input and enhance its quality then if the user wanted, the text will be extracted from the image.
 
+### to  run this project :
+## install requirements via pip
+```markdown
+
+ pip install -r requirements.txt
+ pip install PyQt5
+ pip install cv2
+ pip install ocrspace
+ 
+```
+Then run ALI.py 
+
 ## Our modules in our project:
 - Python
 - OpenCV - computer vision framework
