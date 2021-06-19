@@ -1,7 +1,6 @@
 # AFTER-LIGHT-INSIGHT
 ## Our Project
-There are a lot of bad images that we want to extract the from it but the image not clear like: traffic signs in dark roads. The program takes images as input and enhance its quality then if the user wanted, the text will be extracted from the image.
-
+There are alot of people who can't see the traffic signs on the dark roads so our program takes the images of the traffic signs in any lightness condition then enhance the image and extract the text and display it clearly
 ### to  run this project :
 ## install requirements via pip
 ```markdown
