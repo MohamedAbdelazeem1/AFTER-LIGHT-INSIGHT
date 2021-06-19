@@ -19,3 +19,5 @@ Then run ALI.py
 - PyQt5
 
 ## YouTube video showing our project in action:
+
+https://youtu.be/qBZ1_2v2-es
